@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BudgetCal/static/css/main.9924cbe7.chunk.css",
+    "main.js": "/BudgetCal/static/js/main.b8330f75.chunk.js",
+    "main.js.map": "/BudgetCal/static/js/main.b8330f75.chunk.js.map",
+    "runtime-main.js": "/BudgetCal/static/js/runtime-main.44be481a.js",
+    "runtime-main.js.map": "/BudgetCal/static/js/runtime-main.44be481a.js.map",
+    "static/js/2.88bc8308.chunk.js": "/BudgetCal/static/js/2.88bc8308.chunk.js",
+    "static/js/2.88bc8308.chunk.js.map": "/BudgetCal/static/js/2.88bc8308.chunk.js.map",
+    "index.html": "/BudgetCal/index.html",
+    "precache-manifest.00b4602dfca68a25bf97476adf6fcac2.js": "/BudgetCal/precache-manifest.00b4602dfca68a25bf97476adf6fcac2.js",
+    "service-worker.js": "/BudgetCal/service-worker.js",
+    "static/css/main.9924cbe7.chunk.css.map": "/BudgetCal/static/css/main.9924cbe7.chunk.css.map",
+    "static/js/2.88bc8308.chunk.js.LICENSE.txt": "/BudgetCal/static/js/2.88bc8308.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44be481a.js",
+    "static/js/2.88bc8308.chunk.js",
+    "static/css/main.9924cbe7.chunk.css",
+    "static/js/main.b8330f75.chunk.js"
+  ]
+}
