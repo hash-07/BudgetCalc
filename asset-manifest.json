@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BudgetCalc/static/css/main.9924cbe7.chunk.css",
-    "main.js": "/BudgetCalc/static/js/main.678473ae.chunk.js",
-    "main.js.map": "/BudgetCalc/static/js/main.678473ae.chunk.js.map",
+    "main.js": "/BudgetCalc/static/js/main.afd7900e.chunk.js",
+    "main.js.map": "/BudgetCalc/static/js/main.afd7900e.chunk.js.map",
     "runtime-main.js": "/BudgetCalc/static/js/runtime-main.10c60ad1.js",
     "runtime-main.js.map": "/BudgetCalc/static/js/runtime-main.10c60ad1.js.map",
     "static/js/2.0decf7ae.chunk.js": "/BudgetCalc/static/js/2.0decf7ae.chunk.js",
     "static/js/2.0decf7ae.chunk.js.map": "/BudgetCalc/static/js/2.0decf7ae.chunk.js.map",
     "index.html": "/BudgetCalc/index.html",
-    "precache-manifest.7894158243eb0a5a90cbdaa1c8c3a1c7.js": "/BudgetCalc/precache-manifest.7894158243eb0a5a90cbdaa1c8c3a1c7.js",
+    "precache-manifest.a7996a6e3cafa9034ff30c6bb5b2cad3.js": "/BudgetCalc/precache-manifest.a7996a6e3cafa9034ff30c6bb5b2cad3.js",
     "service-worker.js": "/BudgetCalc/service-worker.js",
     "static/css/main.9924cbe7.chunk.css.map": "/BudgetCalc/static/css/main.9924cbe7.chunk.css.map",
     "static/js/2.0decf7ae.chunk.js.LICENSE.txt": "/BudgetCalc/static/js/2.0decf7ae.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.10c60ad1.js",
     "static/js/2.0decf7ae.chunk.js",
     "static/css/main.9924cbe7.chunk.css",
-    "static/js/main.678473ae.chunk.js"
+    "static/js/main.afd7900e.chunk.js"
   ]
 }
